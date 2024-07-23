@@ -1,4 +1,4 @@
-# iOS-Sound-V3.0-magiskpeople
+# iOS-Sound-V3.0-Module-Magisk
  
 _________________________
 Sound iOS Module Feature
