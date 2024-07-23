@@ -1,6 +1,6 @@
 # iOS-Sound-V3.0-Module-Magisk
- 
-_________________________
+
+
 Sound iOS Module Feature
 - Screenshot✅
 - Lockscreen✅
@@ -10,12 +10,11 @@ Sound iOS Module Feature
 - Screen record on/off✅
 - Alarm✅
 - All iOS Sound on system✅
-_________________________
 
-_________________________
+
 Modifed @magiskpeople
 Sc @LeanHijosdesusMadres
 Cr @modulostk
-_________________________
+
 
 Thank you for sc/cr🙏🏻
