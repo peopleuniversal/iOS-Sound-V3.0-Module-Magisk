@@ -13,8 +13,10 @@ Sound iOS Module Feature
 
 
 Modifed @magiskpeople
+
 Sc @LeanHijosdesusMadres
+
 Cr @modulostk
 
 
-Thank you for sc/cr🙏🏻
+Thank you for sc/cr
